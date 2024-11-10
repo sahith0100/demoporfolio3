@@ -9,6 +9,8 @@ const Project = () => {
         <h1 className="heading__primary">
           My Best <span className="text-yellow-300">Projects</span>
         </h1>
+
+        
       </div>
       <ProjectCard
         title="E-commerce Website"

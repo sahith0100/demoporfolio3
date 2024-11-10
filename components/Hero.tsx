@@ -3,6 +3,8 @@ import React from "react";
 import TypeWriteEffect from "./Helper/TypeWriteEffect";
 import Image from "next/image";
 
+
+
 const Hero = () => {
   return (
     <div className="w-[100vw] pt-[4vh] md:pt-[12vh] h-[85vh] md:h-[100vh] custom-bg">

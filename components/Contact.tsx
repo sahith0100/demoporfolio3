@@ -10,6 +10,8 @@ const Contact = () => {
             Lets make your <span className="text-yellow-400">Brand</span>{" "}
             brilliant
           </h1>
+
+          
           <p className="text-[15px] text-white mt-[1rem] opacity-75">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsam
             consequatur fuga adipisci esse ut odio molestias placeat voluptate

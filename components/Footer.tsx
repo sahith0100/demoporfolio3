@@ -12,6 +12,8 @@ const Footer = () => {
             </span>
             Warriors
           </div>
+
+          
           <h1 className="text-[14px] mt-[0.5rem] text-white opacity-70">
             Lorem, ipsum dolor sit amet consectetur adipisicing elit. Similique
             in sint eum iusto, harum voluptatibus ex sit assumenda labore modi
